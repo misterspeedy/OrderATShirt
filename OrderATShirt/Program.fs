@@ -54,7 +54,7 @@ module Main =
 
         waitForElement proceedToCheckout
 
-        // Assert there is one t-shirt in the recent basked items:
+        // Assert there is one t-shirt in the recent basket items:
         count basketItem 1
 
     run()
